@@ -58,6 +58,8 @@ main{
     justify-content: center;
     align-items: center;
     border: 1px solid rgba(0,0,0,0.075);
+    cursor: pointer;
+    user-select: none;
 }
 
 .calculator .btn-wrapper .container .special-item{
